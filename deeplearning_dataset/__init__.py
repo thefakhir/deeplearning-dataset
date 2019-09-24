@@ -1,6 +1,4 @@
-#  Copyright (c) 2019.
 #  @author Fakhir Khan
-#  @part of Vision Classifier for SlashNext
 
 import copy
 import logging
